@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83f5d7,100:7d89f5&height=200&section=header&text=Jit%20Mukherjee&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&descAlignY=60&descAlign=50" width="100%" alt="Header">
+</div>
+
+###
+
 <h1 align="center">Hey 👋 What's up?</h1>
 
 ###
@@ -88,4 +94,8 @@
 <div align="center">
   <h3>📡 Quantum Entanglement Established 📡</h3>
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7d89f5,100:83f5d7&height=120&section=footer" width="100%" alt="Footer" />
 </div>
