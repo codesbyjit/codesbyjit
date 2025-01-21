@@ -1,8 +1,20 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">👋 I’m Jit Mukherjee</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+the+Digital+Nexus;Crafting+Cutting-Edge+Cyber+Solutions;Hacking+the+Matrix+Since+2005" alt="Typing SVG" />
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=GTAJIT&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-brightgreen?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Location-Kolkata%20City-red?style=for-the-badge" alt="Location" />
+</div>
+
+###
+
+
 
 ###
 
@@ -10,11 +22,12 @@
 
 ###
 
-<p align="left">🔭 I’m a passionate full-stack web developer currently pursuing B.Tech in Computer Science (1st year).<br>💻 I have experience with Python, HTML, CSS, JavaScript, React, Node.js, Next.js, Express, MongoDB, and more!<br>🌱 I’m also exploring Linux basics to enhance my dev environment.<br>👯 I’m looking to collaborate on exciting web development projects—front-end, back-end, or full-stack.<br>💬 Ask me about building user-friendly and responsive web apps.<br>⚡ Fun fact: I code my way through challenges with coffee and creativity ☕💡</p>
+<p align="left"></p>
+<p align="left">👋 I’m Jit Mukherjee,<br>🔭 I’m a passionate full-stack web developer currently pursuing B.Tech in Computer Science (1st year).<br>💻 I have experience with Python, HTML, CSS, JavaScript, React, Node.js, Next.js, Express, MongoDB, and more!<br>🌱 I’m also exploring Linux basics to enhance my dev environment.<br>👯 I’m looking to collaborate on exciting web development projects—front-end, back-end, or full-stack.<br>💬 Ask me about building user-friendly and responsive web apps.<br>⚡ Fun fact: I code my way through challenges with coffee and creativity ☕💡</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/jit-mukherjee/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -61,8 +74,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
-
-###
+<h2 align="left"></h2>
 
 ###
 
@@ -73,3 +85,7 @@
 </div>
 
 ###
+<div align="center">
+  <h3>📡 Quantum Entanglement Established 📡</h3>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
