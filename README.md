@@ -45,7 +45,7 @@
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GTAJIT&theme=tokyonight&show_icons=true&size_weight=0.5&count_weight=0.5&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dtg-lucifer&layout=donut&hide_border=true&&langs_count=10&show_icons=true&theme=tokyonight)
 
 <br>
 
@@ -58,7 +58,7 @@
 
 <!-- <div align="center">
    <img src="">
-   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtg-lucifer&layout=donut&hide_border=true&&langs_count=10&show_icons=true&theme=gruvbox"> -->
+   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtg-lucifer&layout=donut&hide_border=true&&langs_count=10&show_icons=true&theme=gruvbox">
 </div> -->
 
 ---
