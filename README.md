@@ -56,10 +56,10 @@
 <!-- <br> -->
 <!-- <br> -->
 
-<div align="center">
+<!-- <div align="center">
    <img src="">
    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtg-lucifer&layout=donut&hide_border=true&&langs_count=10&show_icons=true&theme=gruvbox"> -->
-</div>
+</div> -->
 
 ---
 <!-- <br> -->
