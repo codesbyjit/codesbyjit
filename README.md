@@ -18,8 +18,8 @@
 ### 📊 GitHub Stats
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=GTAJIT&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GTAJIT&layout=donut&hide_border=true&langs_count=10&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=codesbyjit&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codesbyjit&layout=donut&hide_border=true&langs_count=10&theme=tokyonight)
 
 </div>
 
