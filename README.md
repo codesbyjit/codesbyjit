@@ -1,8 +1,8 @@
 # </> Jit Mukherjee
-**Full-Stack Developer | DevOps Engineer | Web3 Enthusiast**
+**Full-Stack | DevOps | AI**
 
 <p align="left">
-  👋 Indie builder exploring full-stack development, cloud, and DevOps to craft scalable & automated applications ☁️🛠️  
+  👋 Indie builder exploring full-stack development, AI, cloud, and DevOps to craft scalable & automated applications ☁️🛠️  
 </p>
 
 ---
