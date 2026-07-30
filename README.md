@@ -13,15 +13,15 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,gitlab,grafana,kafka,postgres,mongodb)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=arch,vscode,vim,postman,firebase,mysql,bun,git,github)](https://skillicons.dev)  
 
----
+<!---
 
 ### 📊 GitHub Stats
 <div >
 
 ![](https://github-readme-stats.vercel.app/api?username=codesbyjit&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)  
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codesbyjit&layout=donut&hide_border=true&langs_count=10&theme=tokyonight) -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codesbyjit&layout=donut&hide_border=true&langs_count=10&theme=tokyonight)
 
-</div>
+</div> --->
 
 ---
 
